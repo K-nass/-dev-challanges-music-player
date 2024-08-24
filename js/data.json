@@ -1,0 +1,23 @@
+{
+    "tracks": [
+        {
+            "trackName": "Lost in the City Lights",
+            "trackSrc": "audio/lost-in-city-lights-145038.mp3",
+            "singer": "Cosmo Sheldrake",
+            "src_img": "cover-1.png",
+            "track_index": 0
+        },
+        {
+            "trackName": "Forest Lullaby",
+            "trackSrc": "audio/forest-lullaby-110624.mp3",
+            "singer": "Lesfm",
+            "src_img": "cover-2.png",
+            "track_index": 1
+        },
+        {
+            "trackName": "madcap scheme",
+            "trackSrc": "audio/madcap-scheme-176851.mp3",
+            "track_index": 2
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+:root {
+    --color-primary: #C93B76;
+    --color-secondary: #212936;
+    --color-text: #E5E7EB;
+}
+
+.main {
+    background-image: url(../images/bg.jpg);
+}
+
+.card {
+    background-color: var(--color-secondary);
+    max-width: 350px;
+}
+
+.card-header {
+    color: var(--color-text);
+}
+
+.progress-bar {
+    cursor: pointer;
+    background-color: var(--color-primary);
+}
+
+.progress {
+    height: 5px;
+    cursor: pointer;
+}
+.btn-primary {
+    background-color: var(--color-primary) !important;
+    border-color: var(--color-primary) !important;
+}
